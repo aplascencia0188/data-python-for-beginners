@@ -1,0 +1,13 @@
+1. Launch Powershell in Administrator mode (right click -> Run as Administrator)
+2. Go to chocolatey.org
+3. Follow installation instructions
+4. `choco install git -y /GitAndUnixToolsOnPath`
+5. `choco install openssh -y -params "/SSHAgentFeature"`
+6. `choco install atom -y`
+7. `choco install python3 -y`
+8. `choco install awscli -y`
+9. Restart windows
+10. `pip3 install boto3`
+11. `pip3 install ipython`
+  - If needed, install MS Visual C++ 9.0, and re-run
+12. Restart windows
